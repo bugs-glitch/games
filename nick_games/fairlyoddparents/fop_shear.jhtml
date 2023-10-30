@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Shear Madness!</title>
+<head>
+    <link href="https://file.garden/ZLgW_yeVhBA68fs5/waflash@main/style.css"
+        rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <script>
+        var gameConfig = {
+            swfUrl: "https://bugs-glitch.github.io/shows/data/fairlyoddparents/fop_shear/fop_shearmadness.swf"
+        }
+    </script>
+    <div id="waflashContainer">
+        <canvas class="waflashCanvas" id="canvas" tabindex="1"></canvas>
+        <div id="waflashStatus" style="display: none;">Playing...</div>
+<script src="https://file.garden/ZLgW_yeVhBA68fs5/waflash@main/main.js"  rossorigin="anonymous" type="module"></script>
+    </div>
+</body>
+
+</html>
