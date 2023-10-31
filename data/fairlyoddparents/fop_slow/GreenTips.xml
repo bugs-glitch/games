@@ -1,0 +1,455 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app223.us.archive.org';v.server_ms=215;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="//web-static.archive.org/_static/js/bundle-playback.js?v=6otLFMce" charset="utf-8"></script>
+<script type="text/javascript" src="//web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="//web-static.archive.org/_static/js/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml","20130916132239","https://web.archive.org/","web","//web-static.archive.org/_static/",
+	      "1379337759");
+</script>
+<link rel="stylesheet" type="text/css" href="//web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="//web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20130916132239/http%3A//www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="//web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="//web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, //web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, //web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20130916132239" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20130916132239*/http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml" title="See a list of every capture for this URL">2 captures</a>
+          <div class="r" title="Timespan for captures of this URL">16 Sep 2013 - 29 Sep 2013</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="700" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Aug</td>
+            <td class="c" id="displayMonthEl" title="You are here: 13:22:39 Sep 16, 2013">SEP</td>
+            <td class="f" nowrap="nowrap">Oct</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><img src="//web-static.archive.org/_static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 13:22:39 Sep 16, 2013">16</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130929045254/http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml" title="04:52:54 Sep 29, 2013"><img src="//web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2012</td>
+            <td class="c" id="displayYearEl" title="You are here: 13:22:39 Sep 16, 2013">2013</td>
+            <td class="f" nowrap="nowrap">2014</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20130916132239/http://web.archive.org/screenshot/http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20130916132239/http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20130916132239/http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/liveweb)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/liveweb" target="_new"><span class="wm-title">Live Web Proxy Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Content crawled via the <a href="http://archive.org/web/web.php">Wayback Machine</a> Live Proxy mostly by the Save Page Now feature on web.archive.org.
+<br><br>
+Liveweb proxy is a component of Internet Archive’s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+<br>
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="//web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20130916132239/http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(700,27,25,2,"web","http://www.nick.com/games/data/fairlyoddparents/fop_slow/GreenTips.xml","20130916132239",1996,"//web-static.archive.org/_static/",["//web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt","//web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ <tips>
+	<tip1>
+		<![CDATA[Skip plastic water bottles and drink from a glass or a refillable stainless steel bottle when you’re on the go.]>
+	</tip1>
+	<tip2>
+		<![CDATA[Use newspaper, magazines or pictures you've drawn for wrapping paper! Be creative!]>
+	</tip2>
+	<tip3>
+		<![CDATA[Use paper products like napkins and paper towels made from recycled paper instead of right from the trees.]>
+	</tip3>
+	<tip4>
+		<![CDATA[Turn off those lights! Turning off the lights when you leave a room conserves energy.]>
+	</tip4>
+	<tip5>
+		<![CDATA[Buddy up and carpool to soccer practice or school. It’s more fun and you save gas and limit CO2 emissions.]>
+	</tip5>
+	<tip6>
+		<![CDATA[Snack on real food like fruits, veggies and cheese instead of processed foods like potato chips or candy bars. Mmmm good.]>
+	</tip6>
+	<tip7>
+		<![CDATA[Climb a tree! Spend more time outside—it’ll remind you of all the natural wonders you’re helping to protect.]>
+	</tip7>
+	<tip8>
+		<![CDATA[Recycle! Help your family set up bins for paper, plastic, glass and aluminum to make recycling easier.]>
+	</tip8>
+	<tip9>
+		<![CDATA[Use less water! Take shorter showers. Long showers account for 2/3 of all water heating costs.]>
+	</tip9>
+	<tip10>
+		<![CDATA[Urge your parents to use compact fluorescent light bulbs which use about 75% less electricity than incandescent bulbs.]>
+	</tip10>
+	<tip11>
+		<![CDATA[Use a manual lawnmower rather than an energy-hogging electric one. You'll save 80 lbs of CO2 a year!]>
+	</tip11>
+	<tip12>
+		<![CDATA[Be a plug-patroller! Carefully unplug all electronics when they're not in use.]>
+	</tip12>
+	<tip13>
+		<![CDATA[Encourage your parents to buy a hybrid car. Hybrid cars can save 16,000 lbs of CO2 a year.]>
+	</tip13>
+	<tip14>
+		<![CDATA[Skip the dryer and let your clothes air-dry on a clothesline in your back yard. You'll save energy, they'll smell good!]>
+	</tip14>
+	<tip15>
+		<![CDATA[Print assignments on both sides. Talk to your principal about enforcing double-sided printing-only in school.]>
+	</tip15>
+	<tip16>
+		<![CDATA[Say no to plastic bags! Bring a reusable bag when you go shopping. Bug your folks to do the same!]>
+	</tip16>
+	<tip17>
+		<![CDATA[Make sure the dishwasher is full! To save water and energy, only run the dishwasher when it's full.]>
+	</tip17>
+	<tip18>
+		<![CDATA[Get involved! Set up a letter writing campaign in your school to urge Congress to pass green legislation.]>
+	</tip18>
+	<tip19>
+		<![CDATA[Shut down your computer! Turning off your computer when you’re not using it saves 300 pounds of CO2 a year!]>
+	</tip19>
+	<tip20>
+		<![CDATA[Eat locally! Encourage your family to become locavores and eat food grown close to home. Less miles traveled=fewer emissions.]>
+	</tip20>
+	<tip21>
+		<![CDATA[Turn off the faucet! To conserve this all-important resource, turn the water off while you’re brushing your teeth.]>
+	</tip21>
+	<tip22>
+		<![CDATA[Plant a tree! Trees absorb CO2 and give off oxygen that helps counter our carbon footprints.]>
+	</tip22>
+	<tip23>
+		<![CDATA[Tell your parents to change their car's air filter. Changing the filter can save 800 lbs of carbon a year!]>
+	</tip23>
+	<tip24>
+		<![CDATA[Write on both sides of the paper! And make sure you're notebooks are made of recycled paper, too.]>
+	</tip24>
+	<tip25>
+		<![CDATA[Everyone looks better in natural light! Instead of turning on the lights, open the shades and let the sun stream in.]>
+	</tip25>
+	<tip26>
+		<![CDATA[Only wash full loads of laundry, or, if you have less to wash, be sure to use the appropriate water level.]>
+	</tip26>
+	<tip27>
+		<![CDATA[Become Mr. or Ms. Fix-it! Repair things instead of throwing them out. You'll reduce waste and learn some cool new stuff!]>
+	</tip27>
+	<tip28>
+		<![CDATA[Instead of throwing away your old stuff, give it to charity or swap with your friends.]>
+	</tip28>
+	<tip29>
+		<![CDATA[Remind your parents to inflate their tires! Keeping tires properly inflated can save 250 lbs of carbon a year!]>
+	</tip29>
+	<tip30>
+		<![CDATA[Remind your folks to turn the car off instead of letting it run during a quick stop. Letting a car idle for 20 seconds wastes more gas than stopping and restarting.]>
+	</tip30>
+	<tip31>
+		<![CDATA[Plant a tree! It’s a good way to help heal the planet because trees absorb greenhouse gases that affect the Earth's climate!]>
+	</tip31>
+	<tip32>
+		<![CDATA[One tree produces 260 POUNDS of oxygen each year. Two trees provide enough oxygen for you to live on! Plant one!]>
+	</tip32>
+	<tip33>
+		<![CDATA[Trees provide food and shelter for animals. Every second a group of trees the size of a football field is cut down or destroyed. Start a petition against deforestation.]>
+	</tip33>
+	<tip34>
+		<![CDATA[Don’t throw away leftover pans. Aluminum cans, foil and even grandma's leftover lasagna pans can be recycled!]>
+	</tip34>
+	<tip35>
+		<![CDATA[Recycling helps keep the world cleaner by putting less garbage in our landfills. Take charge of your family's recycling area.]>
+	</tip35>
+	<tip36>
+		<![CDATA[Energy vampires like game chargers and TVs drain up to 10-20% of your home's electricity when not in use. If you're not using them, unplug!]>
+	</tip36>
+	<tip37>
+		<![CDATA[Instead of unplugging all of your game and phone chargers, you can connect them to energy strips and turn off the power with a flick of the switch.]>
+	</tip37>
+	<tip38>
+		<![CDATA[Instead of throwing them out, fill old rain boots with gravel and dirt and reuse them as funky flowerpots for plant or herbs.]>
+	</tip38>
+	<tip39>
+		<![CDATA[Save fruit and veggie scraps and start your own compost pile. Soon you'll have rich soil to grow your own fresh snacks.]>
+	</tip39>
+	<tip40>
+		<![CDATA[When you get a package in the mail, save the packing material, including the peanuts, and reuse them when you have something to send.]>
+	</tip40>
+	<tip41>
+		<![CDATA[When it’s time to flex those muscles and exercise, go for a hike or a run outdoors. Gyms overload on A/C and other electricity.]>
+	</tip41>
+	<tip42>
+		<![CDATA[Visit a zoo with your family that has responsible animal caretaking standards. Everyone will feel a stronger connection to nature and animals as a result.]>
+	</tip42>
+	<tip43>
+		<![CDATA[When it comes to packing lunch, choose a refillable bottle instead of a juice box and reusable containers instead of sandwich bags.]>
+	</tip43>
+	<tip44>
+		<![CDATA[Encourage your parents to buy organic clothes. Organic cotton is grown without pesticides and insecticides, which helps keep the Earth heathy.]>
+	</tip44>
+	<tip45>
+		<![CDATA[Use green art supplies like non-toxic crayons, paints and markers. Some are even made with bee's wax and vegetable dyes!]>
+	</tip45>
+	<tip46>
+		<![CDATA[Look for books printed on sustainable paper. The printing of Harry Potter and the Deathly Hallows used more sustainable paper than any previous book.]>
+	</tip46>
+	<tip47>
+		<![CDATA[School supplies! Choose refillable pens and pencils. It saves trees and money!]>
+	</tip47>
+	<tip48>
+		<![CDATA[When it’s time to get new school gear, choose PVC-free backpacks (PVC is a common plastic that has toxins).  Look for organic cotton or hemp.]>
+	</tip48>
+	<tip49>
+		<![CDATA[Need a box for a gift? Turn an old calendar or any colorful square paper into a box with just a few folds and some tape!]>
+	</tip49>
+	<tip50>
+		<![CDATA[Use an old egg container to hold your coins or organize jewelry. With a little paint job, it could look fabulous!]>
+	</tip50>
+	<tip51>
+		<![CDATA[Make your own snow globe! Fill an empty jar with glitter, beads, water, corn syrup and anything else you can think of. Then shake!]>
+	</tip51>
+	<tip52>
+		<![CDATA[Rock those old CD cases and use them for picture frames. Add magnetic strips to the backs and stick them to the fridge!]>
+	</tip52>
+	<tip53>
+		<![CDATA[If you find a walnut shell lying on the ground, use it to make a tiny treasure box for a gift (or a tooth holder for the tooth fairy).]>
+	</tip53>
+	<tip54>
+		<![CDATA[I scream, you scream… Use old ice cream containers to organize stuff like art supplies, toy cars or hair accessories.]>
+	</tip54>
+	<tip55>
+		<![CDATA[Read and then read some more! Visit your local library instead of buying new books.]>
+	</tip55>
+	<tip56>
+		<![CDATA[If there’s a baby in your family, encourage your parents to consider cloth diapers or disposable biodegradable diapers without dyes.]>
+	</tip56>
+	<tip57>
+		<![CDATA[Investigate your family’s cleaning products. Suggest switching to organic cleaning supplies, or homemade ones like vinegar and baking soda.]>
+	</tip57>
+	<tip58>
+		<![CDATA[If you help out with the laundry, try washing only on cold or warm. Washing on hot uses more energy and isn't necessarily better.]>
+	</tip58>
+	<tip59>
+		<![CDATA[That’s how you roll! Organize a day where you and your friends all go to school on wheels…only not car wheels!]>
+	</tip59>
+	<tip60>
+		<![CDATA[Let your hair down. Save energy by skipping the hair dryer and letting your hair air dry instead.]>
+	</tip60>
+	<tip61>
+		<![CDATA[Are you the dedicated dog-walker? Instead of buying bags to scoop the poop, use an old newspaper or grocery bag instead.]>
+	</tip61>
+	<tip62>
+		<![CDATA[Turn regular dinners into elegant events by setting the table with cloth napkins instead of paper.]>
+	</tip62>
+	<tip63>
+		<![CDATA[Save water by taking shorter showers. If you cut down your shower time and still get squeaky clean, your folks might let you sleep a little later!]>
+	</tip63>
+	<tip64>
+		<![CDATA[Keep reusable canvas bags by the door so you'll remember to bring them when you make a run to the store.]>
+	</tip64>
+	<tip65>
+		<![CDATA[Conserve water! Wash fresh fruits & veggies in a bowl instead of under a running faucet.]>
+	</tip65>
+	<tip66>
+		<![CDATA[Save what's left after draining pasta, hard-boiled eggs or veggies and use it to water your plants.]>
+	</tip66>
+	<tip67>
+		<![CDATA[Keeping a pitcher of chilled water in the fridge instead of running the faucet until the water is cold.]>
+	</tip67>
+	<tip68>
+		<![CDATA[Be a tub stopper! When taking a bath, close the drain before turning on the water.]>
+	</tip68>
+	<tip69>
+		<![CDATA[By filling the bathtub only halfway, you could save 10-15 gallons of water.]>
+	</tip69>
+	<tip70>
+		<![CDATA[Use less plastic! Plastic that ends up in our oceans is dangerous to marine life.]>
+	</tip70>
+	<tip71>
+		<![CDATA[Get reusable bags for the whole family! Every reusable bag keeps about 400 plastic bags from being used.]>
+	</tip71>
+	<tip72>
+		<![CDATA[Recycle plastic bags! Every 13 plastic bags not used, saves enough petroleum to drive a car one mile!]>
+	</tip72>
+	<tip73>
+		<![CDATA[Reuse water bottles! Using one reusable bottle keeps 167 single-use plastic bottles from entering the environment.]>
+	</tip73>
+	<tip74>
+		<![CDATA[Support green businesses! Research how local businesses and companies are helping the environment…or not.]>
+	</tip74>
+	<tip75>
+		<![CDATA[Skip plastic sandwich bags and bring a reusable sandwich container for lunch instead.]>
+	</tip75>
+	<tip76>
+		<![CDATA[Ask your folks about setting your computer printers to draft mode. You'll save ink and pricey ink cartridges, too.]>
+	</tip76>
+	<tip77>
+		<![CDATA[When your computer’s ink cartridges run out, don't chuck 'em, recycle them!]>
+	</tip77>
+	<tip78>
+		<![CDATA[While your shower's warming up, catch the water in a watering can and use it to water your plants.]>
+	</tip78>
+	<tip79>
+		<![CDATA[Remind your folks to change the A/C filters regularly...it saves energy and money too!]>
+	</tip79>
+	<tip80>
+		<![CDATA[MOOve it! Volunteer at a farm sanctuary, a safe haven where homeless animals are protected.]>
+	</tip80>
+	<tip81>
+		<![CDATA[Support companies that are animal-friendly and don't test products on animals.]>
+	</tip81>
+	<tip82>
+		<![CDATA[If 10,000 people check their A/C filters each month and replace them when they're dirty, $37,000 a year will be saved!]>
+	</tip82>
+	<tip83>
+		<![CDATA[Recycle your electronics! Cell phones, computers and more can all be recycled. Look for a program near you.]>
+	</tip83>
+	<tip84>
+		<![CDATA[Start a campaign at school to make your school buses cleaner to reduce students' exposure to diesel exhaust.]>
+	</tip84>
+	<tip85>
+		<![CDATA[On cool days, let the sun filter in to help reduce the need heat and lights. Tell your teachers too!]>
+	</tip85>
+	<tip86>
+		<![CDATA[On hot days, drawing the shades will keep the sun out and your room cooler. This works in school, too!]>
+	</tip86>
+	<tip87>
+		<![CDATA[At school encourage your teachers and fellow students to turn off machines like computers and printers when they’re not being used.]>
+	</tip87>
+	<tip88>
+		<![CDATA[Campaign for more solar power in your school district. Solar energy is unlimited and pollution-free.]>
+	</tip88>
+	<tip89>
+		<![CDATA[Pack a waste-free lunch: a drink in a reusable bottle, a whole fruit without packaging and a sandwich or pasta in a reusable container.]>
+	</tip89>
+	<tip90>
+		<![CDATA[Become a Green Machine! Start an environmental club at school or in your community.]>
+	</tip90>
+	<tip91>
+		<![CDATA[Get a green thumb! Start a garden with seeds or young plants. Don’t forget the dirt, water and sunshine!]>
+	</tip91>
+	<tip92>
+		<![CDATA[At the end of the school year, save your important reports and papers and recycle everything you don't need.]>
+	</tip92>
+	<tip93>
+		<![CDATA[To help clean the air inside your home, put potted plants in every room.]>
+	</tip93>
+	<tip94>
+		<![CDATA[Ask your folks to install screens (and bars upstairs) and open those windows! You'll save on AC and enjoy the breeze.]>
+	</tip94>
+	<tip95>
+		<![CDATA[Start an ink cartridge recycling program at your school. You'll help the environment and raise funds too!]>
+	</tip95>
+	<tip96>
+		<![CDATA[Remind your parents & friends to turn off computers and other electronics when they're not using them.]>
+	</tip96>
+</tips><!--
+     FILE ARCHIVED ON 13:22:39 Sep 16, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:51:15 Oct 31, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 151.664 (11)
+  exclusion.robots: 0.207
+  exclusion.robots.policy: 0.197
+  cdx.remote: 0.067
+  esindex: 0.01
+  LoadShardBlock: 120.761 (3)
+  PetaboxLoader3.datanode: 68.62 (4)
+  PetaboxLoader3.resolve: 80.829 (3)
+  load_resource: 52.676
+-->
