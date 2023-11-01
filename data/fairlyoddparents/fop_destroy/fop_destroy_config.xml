@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+
+<config>
+	
+	<version>
+		<!-- "false" will enable high score viewing/submission. "true" will disable high score viewing/submission.  -->
+		<isInternational>false</isInternational>
+	</version>
+
+	<highScore>
+		
+		<!-- Debug mode. Force user to be logged in with the username of "DEBUG_USER". -->
+		<debug>true</debug>
+		
+		<userPath>http://www.nick.com/games/common/user_name/getUserInfo.jhtml</userPath>
+		<scorePath>http://www.nick.com/common/score/Scoreboard.jhtml</scorePath>
+		<serviceLink>http://www.nick.com</serviceLink>
+		<gameID>fop_destroyhsb</gameID>
+		
+		
+	</highScore>
+	
+	
+	
+	<gameSettings>
+		<devMode>false</devMode>
+		<nickPoints>
+			<campaignID>fop_destroy</campaignID>
+			<modulePath>http://www.nick-d.mtvi.com/common/flash/nickpoints/NickPoints_Module_build.swf</modulePath>
+			<events>
+				<event>
+					<name>rank_low</name>
+					<robotThreshold>20</robotThreshold>
+				</event>
+				<event>
+					<name>rank_mid</name>
+					<robotThreshold>60</robotThreshold>
+				</event>
+				<event>
+					<name>rank_high</name>
+					<robotThreshold>120</robotThreshold>
+				</event>
+			</events>
+		</nickPoints>
+		
+		<mouseRadius>10</mouseRadius>
+		
+		<startingSpeed>8</startingSpeed>
+		<speedIncrease>.5</speedIncrease>
+		<speedMax>12.5</speedMax>
+		
+		<startingHealth>1200</startingHealth>		
+		<healthIncrease>200</healthIncrease>
+		
+		<startingRobotsPerLevel>4</startingRobotsPerLevel>
+		<robotsPerLevelIncrease>1</robotsPerLevelIncrease>
+		<robotsPerLevelMax>7</robotsPerLevelMax>
+
+		<unthrowableRobotProbability>.25</unthrowableRobotProbability>
+		<unthrowableRobotLevel>4</unthrowableRobotLevel>
+		<unthrowableRobotMax>2</unthrowableRobotMax>
+		
+		<spawnTimer>5</spawnTimer>
+		<spawnTimerDecrease>.5</spawnTimerDecrease>
+		<spawnTimerMin>2</spawnTimerMin>
+	
+		<levelAmount>5</levelAmount>
+		<levelAmountIncrease>1.5</levelAmountIncrease>
+	
+		<maxRobots>9</maxRobots>
+		
+		<tauntTimer>15</tauntTimer>
+		<robotToFairyRatio>10</robotToFairyRatio>
+		<fairyDmg>100</fairyDmg>
+		<fairyShotDelay>4</fairyShotDelay>
+		<fairyRange>275</fairyRange>
+		
+		<laneData>
+			<lane id="1">
+				<y>375</y>
+			</lane>
+			
+			<lane id="2">
+				<y>325</y>
+			</lane>
+			
+			<lane id="3">
+				<y>275</y>
+			</lane>
+		</laneData>
+	
+		<gravityForce>30</gravityForce>
+	
+		<darkPowerProbability>.15</darkPowerProbability>
+		<throwPower>.75</throwPower>
+		<throwMaxVelocity>-1000</throwMaxVelocity>
+		
+		<punchPower>1100</punchPower>
+		<punchRecharge>2.5</punchRecharge>
+		
+		<poundPower>100000</poundPower>
+		<poundRecharge>15</poundRecharge>
+		<poundStun>2</poundStun>
+		
+		<specialRecharge>4</specialRecharge>
+		<specialThrowMax>-1500</specialThrowMax>
+		
+		<popins>
+			<popin mode="normal">Robot Minions, Attack!</popin>
+			<popin mode="flipsee">We’ll destroy the earth! (Isn’t that right Flipsie?)</popin>
+			<popin mode="normal">Man I really hate that kid!</popin>
+			<popin mode="normal">It’s useless to oppose me Timmy Turner.</popin>
+		</popins>
+		<unthrowablePopIn>Throws are useless against my Magno-Bots!</unthrowablePopIn>
+
+	</gameSettings>
+	
+	
+
+	<localization>
+		
+	</localization>
+	
+</config>
