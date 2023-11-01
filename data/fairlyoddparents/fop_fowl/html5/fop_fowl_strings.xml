@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" ?>
+<data>
+	<strings>
+		<string name="text_score">SCORE</string>
+		<string name="text_menu">MENU</string>
+		<string name="text_music_on">MUSIC <font color="#CC0000">ON</font></string>
+		<string name="text_music_off">MUSIC <font  color="#CC0000">OFF</font></string>
+		<string name="text_back">Back</string>
+		<string name="text_next">Next</string>
+		<string name="text_close">Close</string>
+		<string name="text_connection_error">Problem connecting to server, please try again later.</string>
+		<string name="text_high_scores">High Scores</string>
+		<string name="text_loading_scores">Loading Scores...</string>
+		<string name="text_name">NickName</string>
+		<string name="text_play">Play</string>
+		<string name="text_rank">Rank</string>
+		<string name="text_score">Score</string>
+		<string name="text_sending_scores">Sending Score...</string>
+		<string name="text_you">You</string>
+		
+		<string name="text_goal_2">Hit TWO targets</string>
+		<string name="text_goal_3">Hit THREE targets</string>
+		<string name="text_goal_4">Hit FOUR targets</string>
+	</strings>
+</data>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<data>
+	<!-- flashvars -->
+	<params>
+		<param name="strings" param="strings" defaultValue="{$params.datapath.value}fop_fowl_strings.xml" />
+		<param name="userpath" param="userpath" defaultValue="http://www.nick.com/games/common/user_name/getUserInfo.jhtml" />
+		<param name="scorepath" param="scorepath" defaultValue="http://www.nick.com/common/score/Scoreboard.jhtml" />
+		<param name="nickPoint" param="nickPoint" defaultValue="/common/flash/nickpoints/NickPoints_Module_build.swf" />
+		<param name="gameId" param="gameId" defaultValue="fop_fowlhsb" /><!-- sb_showdown kca_up  -->
+		<param name="campaignId" param="campaignId" defaultValue="fop_fowl" /><!-- sb_showdown kca_up  -->
+		<param name="startingY" param="startingY" defaultValue="500" /><!-- sb_showdown kca_up  -->
+		<param name="endingY" param="endingY" defaultValue="230" /><!-- sb_showdown kca_up  -->
+		<param name="datapath" param="datapath" defaultValue="" />
+		<param name="scoreboard" param="scoreboard" defaultValue="1" />
+	</params>
+	<settings>
+		<object name="nickPoints">
+			<string name="bronze">rank_bronze</string>
+			<string name="silver">rank_silver</string>
+			<string name="gold">rank_gold</string>
+		</object>
+		<uint name="devMode" value="0" />
+		<uint name="startLevel" value="0" />
+		<uint name="bubblePoints" value="20" />
+		<uint name="targetPoints" value="200" />
+		<uint name="bonusPoints" value="50" />
+		<uint name="goldScore" value="4000" />
+		<uint name="silverScore" value="2000" />
+	</settings>
+</data>
